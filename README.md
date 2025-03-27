@@ -28,6 +28,6 @@ This project is open-source and available under the MIT License.
 ---
 ### 📞 Contact
 If you have any questions, feel free to reach out:
-- **GitHub**: [your-github-profile](https://github.com/s.himanshu16)
+- **GitHub**: https://github.com/s.himanshu16
 - **Email**: work.himanshu16@gmail.com
 
